@@ -279,3 +279,4 @@ E:\NewMVC\NewMVC\bin\Debug\net8.0\EPPlus.dll
 E:\NewMVC\NewMVC\bin\Debug\net8.0\EPPlus.Interfaces.dll
 E:\NewMVC\NewMVC\bin\Debug\net8.0\EPPlus.System.Drawing.dll
 E:\NewMVC\NewMVC\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\NewMVC\NewMVC\obj\Debug\net8.0\NewMVC.sourcelink.json
